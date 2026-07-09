@@ -1,4 +1,11 @@
 # 💫 About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenxinZheng1128/ChenxinZheng1128/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenxinZheng1128/ChenxinZheng1128/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChenxinZheng1128/ChenxinZheng1128/output/github-snake.svg" />
+</picture>
+
 Software Engineer specializing in robotics, AI systems, and scalable software. Developed modular ML pipelines, real-time inference systems, and computer vision applications in Python and C++ across research and industry. Passionate about building scalable, production-ready AI software.
 
 ---
