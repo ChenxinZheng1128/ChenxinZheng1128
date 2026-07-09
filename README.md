@@ -1,9 +1,6 @@
 # 💫 About Me
 Software Engineer specializing in robotics, AI systems, and scalable software. Developed modular ML pipelines, real-time inference systems, and computer vision applications in Python and C++ across research and industry. Passionate about building scalable, production-ready AI software.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chenxin-ZHENG)
-
 ---
 
 # 💻 Tech Stack
